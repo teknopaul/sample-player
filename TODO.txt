@@ -1,0 +1,12 @@
+TODO
+¨¨¨¨
+
+FireFox plugin
+	Copy build from Pinboard
+	main
+
+GUI Editor
+
+Volume control some how
+
+

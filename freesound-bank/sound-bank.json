@@ -1,0 +1,22 @@
+{
+	"name" : "freesound.org bank",
+	"description" : "Sounds taken from http://freesound.org, copyright is held by the authors in the file names.",
+	"background-color" : "#eee",
+	"samples" :  [
+	
+		{"name" : "binaural-bird-song", "mediaType" : "audio/wav", "url" : "19320__thsha1__thsha1-binaural-bird-song-20060528-1.wav" },
+
+		{"name" : "organf6", "mediaType" : "audio/wav", "url" : "41846__noisecollector__organf6.wav" },
+		{"name" : "air raid r", "mediaType" : "audio/wav", "url" : "45933__torn-rugged-audio-35__air-raid-r.wav" },
+		{"name" : "police siren", "mediaType" : "audio/wav", "url" : "58375__the-bizniss__sim-police-siren.wav" },
+
+		{"name" : "all havoc breaks loose", "mediaType" : "audio/wav", "url" : "97785__cgeffex__all-havoc-breaks-loose.wav" },
+		{"name" : "air raid siren", "mediaType" : "audio/wav", "url" : "157463__cocaine__air-raid-siren.wav" },
+		{"name" : "surf", "mediaType" : "audio/wav", "url" : "167404__dobroide__20121014-surf-04.wav" },
+
+		{"name" : "synthpad 2", "mediaType" : "audio/wav", "url" : "169108__rsanchez44__synthpad-2.wav" },
+		{"name" : "nightingale citypark", "mediaType" : "audio/wav", "url" : "188619__klankbeeld__nightingale-citypark-130510-00.wav" },
+		{"name" : "summer waves at charmouth beach", "mediaType" : "audio/wav", "url" : "203156__konakaboom__summer-waves-at-charmouth-beach-in-dorset.wav" }
+		
+	]
+}

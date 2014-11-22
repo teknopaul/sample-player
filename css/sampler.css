@@ -1,0 +1,63 @@
+/* Globally prevent highlighting by selecting text */
+::selection {}
+::-moz-selection {}
+
+#sampler {
+	padding-top: 20px;
+	text-align: center;
+}
+/* A pad is one of the clickable sampler buttons */
+.pad {
+	border-radius: 20px;
+	min-height: 150px;
+	background-color: #fff;
+	padding-top: 35px;
+	font-size: 45px;
+	box-shadow: 1px 1px 2px #999;
+	background-image: linear-gradient(#fff, #f3f3f3);
+}
+.flash {
+	background-image: radial-gradient(#fcc, #fff);
+	box-shadow: 0px 0px 5px #f33;
+}
+
+/* Hide the <audio> player that comes by default */
+.snd {
+	display: none;
+}
+
+/* Sound bank chooser */
+#sound-bank-select {
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	border: 1px solid #999;
+	border-radius: 8px;
+	background-color: #fff;
+	background-image: linear-gradient(#fff, #ddd);
+	min-width: 120px;
+}
+#sound-bank-select div.title {
+	text-align: center;
+	color: #fff;
+	background-image: linear-gradient(#999, #888);
+	text-shadow: 1px 1px 1px black;
+	background-color: #999;
+	border-radius: 6px 6px 0px 0px;
+	padding: 8px;
+}
+#sound-bank-select div.bank {
+	margin: 4px 4px 4px 4px;
+	padding: 4px 8px 4px 8px;
+}
+#sound-bank-select div.selected {
+	background-image: linear-gradient(#ddd, #eee);
+	border: 1px solid #cccccc;
+	font-weight: bold;
+	border-radius: 4px;
+}
+footer {
+	padding: 20px;
+	text-align: center;
+	font-size: 10px;
+}
